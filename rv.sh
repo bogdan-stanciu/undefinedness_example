@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "This is rv.sh"
-echo "Test pull request"
+echo "Test pull request 2"
 make
 ./1-unsequenced-side-effect
 ./2-buffer-overflow
